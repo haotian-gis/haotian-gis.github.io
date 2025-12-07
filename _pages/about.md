@@ -38,7 +38,7 @@ Across my projects, I am passionate about:
   <div class='paper-box-image'>
     <div>
       <div class="badge">JEM 2024</div>
-      <!-- 你可以把 images/heatwave.png 换成自己准备的一张图 -->
+      <!-- 你可以把图片换成自己的一张，例如 heatwave.png -->
       <img src='images/heatwave.png' alt="heatwave mobility" width="100%">
     </div>
   </div>
@@ -51,15 +51,16 @@ Across my projects, I am passionate about:
 *Journal of Environmental Management*, 2024, 366: 121665.  
 
 [**Paper**](https://doi.org/10.1016/j.jenvman.2024.121665)  
-<strong><span class='show_paper_citations' data='YOUR_SCHOLAR_PAPER_ID'></span></strong>
+<!-- 引用数以后再弄，先注释掉这一行也可以 -->
+<!-- <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_PAPER_ID'></span></strong> -->
 
-- Uses large-scale mobile phone location data to quantify community-level adaptations to extreme heat,  
-  offering a data-driven perspective on urban resilience.
+- Uses large-scale mobile phone location data to quantify community-level adaptations to extreme heat
+  and provides a data-driven perspective on urban resilience.
 
   </div>
 </div>
 
----
+<hr />
 
 ## Journal Articles
 
@@ -104,7 +105,7 @@ Across my projects, I am passionate about:
 2. Li, X., Zhang, Y., Li, D., Cai, H., & **Tian, H.** (2024).  
    *Spatiotemporal visitor characterization through SafeGraph data analysis.*  
    In **Contemporary Landscape Performance Methods and Techniques** (pp. 153–165). Routledge.
-   
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
