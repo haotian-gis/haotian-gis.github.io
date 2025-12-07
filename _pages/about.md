@@ -46,6 +46,11 @@ Across my projects, I am passionate about:
 </div>
 </div>
 
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">JEMA 2024</span>
+  <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,  
+  A, B, C, **CVPR 2020**
+
+  
 - <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
     <strong>JEMA 2024</strong>
