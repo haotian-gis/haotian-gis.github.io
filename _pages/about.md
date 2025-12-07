@@ -32,7 +32,7 @@ Across my projects, I am passionate about:
 
 # 📝 Publications 
 
-## Highlighted Paper
+## Journal Articles
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,16 +44,17 @@ Across my projects, I am passionate about:
 - Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
 - Proposes new behavioral resilience indices and interpretable spatial patterns  
 
-  </div>
+</div>
 </div>
 
 
-[**Journal Articles**]
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Book Chapters
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div>
+<div class='paper-box-text' markdown="1">
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  
 
-[**Book Chapters**]
-- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
-- Proposes new behavioral resilience metrics and interpretable spatial patterns
+
 
 
 # 🎖 Honors and Awards
