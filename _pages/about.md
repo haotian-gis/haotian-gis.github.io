@@ -182,21 +182,21 @@ School of Geo-Science and Technology
 
 ## Conference Services
 
-- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · ICC 2025</span>  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · ICC 2025</span>  
   Session: *Cartography in Early Warning and Crisis Management*  
   International Cartographic Conference (ICC 2025), 18–22 Aug 2025, Vancouver, Canada.
 
-- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2025</span>  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2025</span>  
   Session: *Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
   American Association of Geographers (AAG 2025), 23–28 Mar 2025, Detroit, USA.  
   *(Co-organized with Dr. Heng Cai)*
 
-- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2024</span>  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2024</span>  
   Session: *Symposium on Community Resilience Research: Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
   AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
   *(Co-organized with Dr. Heng Cai)*
 
-- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Co-Chair · AAG 2024</span>  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Co-Chair · AAG 2024</span>  
   Session: *Symposium on Community Resilience Research: Data-Driven Approaches for Extreme Heat, Health, and Resilience*  
   AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
   *(Co-organized with Cong Ma)*
