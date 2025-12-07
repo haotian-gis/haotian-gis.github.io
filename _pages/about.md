@@ -34,33 +34,35 @@ Across my projects, I am passionate about:
 
 ## Highlighted Paper
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
+<!-- =======================
+     Featured Publication
+     ======================= -->
+
+<div class="paper-box">
+  <div class="paper-box-image">
     <div>
       <div class="badge">JEM 2024</div>
-      <!-- 你可以把图片换成自己的一张，例如 heatwave.png -->
-      <img src='images/heatwave.png' alt="heatwave mobility" width="100%">
+      <img src="images/heatwave.png" alt="heatwave mobility" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+
+  <div class="paper-box-text" markdown="1">
 
 [Unveiling community adaptations to extreme heat events using mobile phone location data](https://doi.org/10.1016/j.jenvman.2024.121665)
 
 **Hao Tian**, Heng Cai, Leiqiu Hu, Yi Qiang, Bing Zhou, Mingzheng Yang, Binbin Lin  
+*Journal of Environmental Management*, 2024, Vol. 366: 121665.
 
-*Journal of Environmental Management*, 2024, 366: 121665.  
+[**Paper**](https://doi.org/10.1016/j.jenvman.2024.121665)
 
-[**Paper**](https://doi.org/10.1016/j.jenvman.2024.121665)  
-<!-- 引用数以后再弄，先注释掉这一行也可以 -->
-<!-- <strong><span class='show_paper_citations' data='YOUR_SCHOLAR_PAPER_ID'></span></strong> -->
-
-- Uses large-scale mobile phone location data to quantify community-level adaptations to extreme heat
-  and provides a data-driven perspective on urban resilience.
+- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
+- Proposes new behavioral resilience metrics and interpretable spatial patterns
 
   </div>
 </div>
 
-<hr />
+<br/>
+
 
 ## Journal Articles
 
