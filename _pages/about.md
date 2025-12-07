@@ -29,11 +29,10 @@ Across my projects, I am passionate about:
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-、
+
 # 📝 Publications 
 
-[**Highlighted Paper**]
-
+## Highlighted Paper
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,15 +41,17 @@ Across my projects, I am passionate about:
 **Hao Tian**, Heng Cai, Leiqiu Hu, Yi Qiang, Bing Zhou, Mingzheng Yang, Binbin Lin  
 *Journal of Environmental Management*, 2024, Vol. 366: 121665.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
+- Proposes new behavioral resilience indices and interpretable spatial patterns  
+
+  </div>
 </div>
 
+
+[**Journal Articles**]
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-[**Paper**](https://doi.org/10.1016/j.jenvman.2024.121665)
-
+[**Book Chapters**]
 - Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
 - Proposes new behavioral resilience metrics and interpretable spatial patterns
 
