@@ -23,7 +23,7 @@ Across my projects, I am passionate about:
 - Building interdisciplinary collaborations across geography, data science, and geophysics
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
 
 # 📝 Publications 
 ## Journal Articles
