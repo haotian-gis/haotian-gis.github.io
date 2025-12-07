@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tian"
-description              : "Ph.D. Student in Geography | GIScience & GeoAI | Urban Resilience"
+description              :  #
 repository               : "haotian-gis/haotian-gis.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Tian"
   avatar           : "images/haotian.PNG"
-  bio              : "Ph.D. student at Texas A&M University. My research focuses on GIScience, Urban Human Dynamics, Social & Seismic  Sensing, and GeoAI."
+  bio              : "Ph.D. student at Texas A&M University."
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
