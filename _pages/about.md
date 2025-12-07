@@ -57,7 +57,7 @@ Across my projects, I am passionate about:
   *Applied Geography*, 2025. (Under Review)
 
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">AAAG 2025</span>
-  <a>Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>
+  <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>
   Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, **Tian H**.
   *Annals of the American Association of Geographers*, 2025, 1-23.
 
