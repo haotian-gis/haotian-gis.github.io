@@ -202,6 +202,11 @@ School of Geo-Science and Technology
 
 ## Conference Services
 
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2026</span>  
+  Session: *GISER Symposium: Sensing Urban Human Dynamics Through Multi-Source Insights (Part I & II)*  
+  American Association of Geographers (AAG 2026), 17–21 Mar 2026, San Francisco, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+  
 - <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · ICC 2025</span>  
   Session: *Cartography in Early Warning and Crisis Management*  
   International Cartographic Conference (ICC 2025), 18–22 Aug 2025, Vancouver, Canada.
