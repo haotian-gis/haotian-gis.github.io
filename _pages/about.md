@@ -248,11 +248,7 @@ School of Geo-Science and Technology
       overflow: hidden; 
       box-shadow: 0 2px 12px rgba(0,0,0,0.12);
   ">
-      <script 
-        type="text/javascript" 
-        id="mapmyvisitors" 
-        src="https://mapmyvisitors.com/map.js?d=hhbsZZj76WeM5gAU6on3Roph9tB9F0MWKLlMTxDAB6c&cl=ffffff&w=a">
-      </script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hbhsZZj76WeM5gAU6on3Roph9tB9F0MWKLMITxDAB6c&cl=ffffff&w=a"></script>
   </div>
 </div>
 
