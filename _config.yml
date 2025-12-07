@@ -9,6 +9,7 @@
 title                    : "Hao Tian"
 description              : "Department of Geography, Texas A&M University."
 repository               : "haotian-gis/haotian-gis.github.io"
+favicon                  : "/images/favicon.svg"
 google_scholar_stats_use_cdn : true
 
 # google analytics
