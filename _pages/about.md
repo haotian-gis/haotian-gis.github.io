@@ -180,10 +180,19 @@ School of Geo-Science and Technology
 
 # 🌍 Visitor Map
 
-<div align="center">
-<script type="text/javascript" id="mapmyvisitors" 
-src="//mapmyvisitors.com/map.js?d=hhbsZZj76WeM5gAU6on3Roph9tB9F0MWKLlMTxDAB6c&cl=ffffff&w=a">
-</script>
+<div style="display:flex; justify-content:center; margin: 20px 0;">
+  <div style="
+      max-width: 900px; 
+      width: 100%; 
+      border-radius: 12px; 
+      overflow: hidden; 
+      box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  ">
+      <script type="text/javascript" id="mapmyvisitors" 
+      src="//mapmyvisitors.com/map.js?d=hhbsZZj76WeM5gAU6on3Roph9tB9F0MWKLlMTxDAB6c&cl=ffffff&w=a">
+      </script>
+  </div>
 </div>
+
 
 
