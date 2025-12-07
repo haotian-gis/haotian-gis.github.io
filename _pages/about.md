@@ -100,55 +100,71 @@ Across my projects, I am passionate about:
   **Scholarship, Sun Yat-Sen University**
 
 # 📖 Educations
-**Texas A&M University**, College Station, TX, USA  
+- **Texas A&M University**, College Station, TX, USA  
 *Ph.D. in Geography*, 2023 – 2027 (expected)  
 Department of Geography  
 Supervisor: [Dr. Heng Cai](https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html)
 
-**Sun Yat-Sen University**, Guangzhou, China  
+- **Sun Yat-Sen University**, Guangzhou, China  
 *M.Eng. in Engineering (Surveying and Mapping)*, 2019 – 2021  
 School of Geography and Planning  
 
-**Zhengzhou University**, Zhengzhou, China  
+- **Zhengzhou University**, Zhengzhou, China  
 *B.S. in Geographic Information Science*, 2015 – 2019  
 School of Geo-Science and Technology  
 
-## 🎤 Talks & Presentations
+# 🎤 Talks & Presentations
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.11</span>  
-  **Invited Presentation.** Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2025.11 Invited Presentation
+  </span>  
+  Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
   Texas GIS Day, Texas A&M University, College Station, TX, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.11</span>  
-  **Invited Presentation.** Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2025.11 Invited Presentation
+  </span>  
+  Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
   Fall 2025 Geography Colloquium, Texas A&M University, College Station, TX, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.08</span>  
-  **Oral Presentation.** Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2025.08 Oral Presentation
+  </span>  
+  Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat.  
   International Cartographic Conference (ICC 2025), Vancouver, BC, Canada.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.03</span>  
-  **Oral Presentation.** Human responses to extreme heat through the lens of human mobility: a multiple-scales study across the United States.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2025.03 Oral Presentation
+  </span>  
+  Human responses to extreme heat through the lens of human mobility: A multiple-scales study across the United States.  
   AAG 2025, Detroit, MI, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024.04</span>  
-  **Oral Presentation.** Unveiling Community Adaptations to Extreme Heat Events Using Mobile Phone Location Data.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2024.04 Oral Presentation
+  </span>  
+  Unveiling Community Adaptations to Extreme Heat Events Using Mobile Phone Location Data.  
   AAG 2024 GISS-SG Student Paper Competition, Honolulu, HI, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024.01</span>  
-  **Oral Presentation.** Case Study: Detection of heat waves and calculating heat index using meteorological data.  
-  2024 Spring Online Training Workshop on Spatiotemporal Analysis, Spatial Data Lab (SDL), Harvard CGA.
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2024.01 Oral Presentation
+  </span>  
+  Case Study: Detection of heat waves and calculating heat index using meteorological data.  
+  Spring 2024 Spatiotemporal Analysis Workshop, Spatial Data Lab (SDL), Harvard CGA.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023.12</span>  
-  **Oral Presentation.** Unveiling Human Mobility Dynamics during Heat Waves Using Mobile Phone Location Data in the Houston Metropolitan Area.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2023.12 Oral Presentation
+  </span>  
+  Unveiling Human Mobility Dynamics during Heat Waves Using Mobile Phone Data in the Houston Metropolitan Area.  
   Texas GIS Day Student Competition, College Station, TX, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023.10</span>  
-  **Oral Presentation.** Unveiling Disparate Community Adaptations to Heat Extremes Using Mobile Phone Location Data.  
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2023.10 Oral Presentation
+  </span>  
+  Unveiling Disparate Community Adaptations to Heat Extremes Using Mobile Phone Location Data.  
   Urban Climate Solutions Workshop, College Station, TX, U.S.A.
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2020.12</span>  
-  **Oral Presentation.** Assessing the effects of temperature on COPD admissions in Guangzhou based on the distributed lagged non-linear model.  
-  Urban Health 2020: Theory, Method and Application Symposium, Guangzhou, China.
-
-
+- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+    2020.12 Oral Presentation
+  </span>  
+  Assessing the effects of temperature on COPD admissions in Guangzhou based on a distributed lagged non-linear model.  
+  Urban Health 2020 Symposium, Guangzhou, China.
