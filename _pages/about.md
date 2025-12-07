@@ -81,16 +81,74 @@ Across my projects, I am passionate about:
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  **International Cartographic Association (ICA) Scholarship**
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  **CaGIS International Conference Grant**
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
+  **2nd Place, AAG GISS-SG Student Paper Competition**
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
+  **AAG SAM-SG Student Travel Award**
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023</span>
+  **Texas GIS Day Graduate Student Research Competition Awardee**
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2019 & 2020</span>
+  **Scholarship, Sun Yat-Sen University**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Texas A&M University**, College Station, TX, USA  
+*Ph.D. in Geography*, 2023 – 2027 (expected)  
+Department of Geography  
+Supervisor: [Dr. Heng Cai](https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Sun Yat-Sen University**, Guangzhou, China  
+*M.Eng. in Engineering (Surveying and Mapping)*, 2019 – 2021  
+School of Geography and Planning  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Zhengzhou University**, Zhengzhou, China  
+*B.S. in Geographic Information Science*, 2015 – 2019  
+School of Geo-Science and Technology  
+
+## 🎤 Talks & Presentations
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.11</span>  
+  **Invited Presentation.** Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+  Texas GIS Day, Texas A&M University, College Station, TX, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.11</span>  
+  **Invited Presentation.** Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+  Fall 2025 Geography Colloquium, Texas A&M University, College Station, TX, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.08</span>  
+  **Oral Presentation.** Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat.  
+  International Cartographic Conference (ICC 2025), Vancouver, BC, Canada.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025.03</span>  
+  **Oral Presentation.** Human responses to extreme heat through the lens of human mobility: a multiple-scales study across the United States.  
+  AAG 2025, Detroit, MI, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024.04</span>  
+  **Oral Presentation.** Unveiling Community Adaptations to Extreme Heat Events Using Mobile Phone Location Data.  
+  AAG 2024 GISS-SG Student Paper Competition, Honolulu, HI, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024.01</span>  
+  **Oral Presentation.** Case Study: Detection of heat waves and calculating heat index using meteorological data.  
+  2024 Spring Online Training Workshop on Spatiotemporal Analysis, Spatial Data Lab (SDL), Harvard CGA.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023.12</span>  
+  **Oral Presentation.** Unveiling Human Mobility Dynamics during Heat Waves Using Mobile Phone Location Data in the Houston Metropolitan Area.  
+  Texas GIS Day Student Competition, College Station, TX, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023.10</span>  
+  **Oral Presentation.** Unveiling Disparate Community Adaptations to Heat Extremes Using Mobile Phone Location Data.  
+  Urban Climate Solutions Workshop, College Station, TX, U.S.A.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2020.12</span>  
+  **Oral Presentation.** Assessing the effects of temperature on COPD admissions in Guangzhou based on the distributed lagged non-linear model.  
+  Urban Health 2020: Theory, Method and Application Symposium, Guangzhou, China.
+
+
