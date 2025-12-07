@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tian"
-description              :  # xxx
+description              : "Department of Geography, Texas A&M University."
 repository               : "haotian-gis/haotian-gis.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Tian"
   avatar           : "images/haotian.PNG"
-  bio              : "Ph.D. student at Texas A&M University."
+  bio              : "Ph.D. student"
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
