@@ -46,15 +46,14 @@ Across my projects, I am passionate about:
 </div>
 </div>
 
-<br>
-
 - <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
-    <span class="badge">JEMA 2024</span>
+    <strong>JEMA 2024</strong>
     <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,
     A, B, C, **CVPR 2020**
   </div>
 </div>
+
 
 
 ## Book Chapters
