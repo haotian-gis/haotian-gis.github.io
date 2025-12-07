@@ -42,23 +42,23 @@ Across my projects, I am passionate about:
 </div>
 
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">CEUS 2025</span>
-  <a>From Seismic Signals to Urban Sensing: Leveraging Ambient Seismic Noise to Sense Human Activity Disruptions in Extreme Weather Events</a>
-  **Hao Tian**, Cai H, Chen X, Ahmad MG, Arther L.
+  <a>From Seismic Signals to Urban Sensing: Leveraging Ambient Seismic Noise to Sense Human Activity Disruptions in Extreme Weather Events</a>  
+  **Hao Tian**, Cai H, Chen X, Ahmad MG, Arther L.  
   *Computers, Environment and Urban Systems*, 2025. (Under Review)
   
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">IJDRR 2025</span>
-  <a>Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl</a>
-  Lin B, Cai H, **Tian H**, Fu D, D Palash, Sumiya NN, Yin Z.
+  <a>Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl</a>  
+  Lin B, Cai H, **Tian H**, Fu D, D Palash, Sumiya NN, Yin Z.  
   *International Journal of Disaster Risk Reduction*, 2025. (Under Review)
   
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Applied Geography 2025</span>
-  <a>Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data</a>
-  Lin B, Zou L, Cai H, **Tian H**.
+  <a>Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data</a>  
+  Lin B, Zou L, Cai H, **Tian H**.  
   *Applied Geography*, 2025. (Under Review)
 
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">AAAG 2025</span>
-  <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>
-  Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, **Tian H**.
+  <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>  
+  Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, **Tian H**.  
   *Annals of the American Association of Geographers*, 2025, 1-23.
 
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Environmental Research 2021</span>
