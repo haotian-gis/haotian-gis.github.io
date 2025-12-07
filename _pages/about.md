@@ -113,58 +113,68 @@ School of Geography and Planning
 *B.S. in Geographic Information Science*, 2015 – 2019  
 School of Geo-Science and Technology  
 
-# 🎤 Talks & Presentations
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+# 🎤 Talks & Presentations
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2025.11 Invited Presentation
   </span>  
   Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
   Texas GIS Day, Texas A&M University, College Station, TX, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2025.11 Invited Presentation
   </span>  
   Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
   Fall 2025 Geography Colloquium, Texas A&M University, College Station, TX, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2025.08 Oral Presentation
   </span>  
   Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat.  
   International Cartographic Conference (ICC 2025), Vancouver, BC, Canada.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2025.03 Oral Presentation
   </span>  
   Human responses to extreme heat through the lens of human mobility: A multiple-scales study across the United States.  
   AAG 2025, Detroit, MI, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2024.04 Oral Presentation
   </span>  
   Unveiling Community Adaptations to Extreme Heat Events Using Mobile Phone Location Data.  
   AAG 2024 GISS-SG Student Paper Competition, Honolulu, HI, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2024.01 Oral Presentation
   </span>  
   Case Study: Detection of heat waves and calculating heat index using meteorological data.  
   Spring 2024 Spatiotemporal Analysis Workshop, Spatial Data Lab (SDL), Harvard CGA.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2023.12 Oral Presentation
   </span>  
   Unveiling Human Mobility Dynamics during Heat Waves Using Mobile Phone Data in the Houston Metropolitan Area.  
   Texas GIS Day Student Competition, College Station, TX, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2023.10 Oral Presentation
   </span>  
   Unveiling Disparate Community Adaptations to Heat Extremes Using Mobile Phone Location Data.  
   Urban Climate Solutions Workshop, College Station, TX, U.S.A.
 
-- <span style="background:#ffa500; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600;">
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2020.12 Oral Presentation
   </span>  
   Assessing the effects of temperature on COPD admissions in Guangzhou based on a distributed lagged non-linear model.  
   Urban Health 2020 Symposium, Guangzhou, China.
+
