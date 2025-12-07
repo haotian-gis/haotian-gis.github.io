@@ -178,6 +178,46 @@ School of Geo-Science and Technology
   Assessing the effects of temperature on COPD admissions in Guangzhou based on a distributed lagged non-linear model.  
   Urban Health 2020 Symposium, Guangzhou, China.
 
+## 📖 Academic Services
+
+## Conference Services
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · ICC 2025</span>  
+  Session: *Cartography in Early Warning and Crisis Management*  
+  International Cartographic Conference (ICC 2025), 18–22 Aug 2025, Vancouver, Canada.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2025</span>  
+  Session: *Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
+  American Association of Geographers (AAG 2025), 23–28 Mar 2025, Detroit, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2024</span>  
+  Session: *Symposium on Community Resilience Research: Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
+  AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Co-Chair · AAG 2024</span>  
+  Session: *Symposium on Community Resilience Research: Data-Driven Approaches for Extreme Heat, Health, and Resilience*  
+  AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
+  *(Co-organized with Cong Ma)*
+
+
+## Memberships
+
+- Chinese Professional in Geographic Information Sciences (**CPGIS**)  
+- American Association of Geographers (**AAG**)  
+- University Consortium for Geographic Information Science (**UCGIS**)  
+- Cartography and Geographic Information Society (**CaGIS**)  
+- GISphere — *Global non-profit GIS education initiative*  
+
+
+## Reviewer Services
+
+- *Annals of GIS*  
+- *Scientific Reports*  
+- *Urban Resilience and Sustainability*  
+- *Tourism Geographies*
+
 # 🌍 Visitor Map
 
 <div style="display:flex; justify-content:center; margin: 20px 0;">
