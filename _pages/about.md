@@ -82,22 +82,22 @@ Across my projects, I am passionate about:
 
 # 🎖 Honors and Awards
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
-  **International Cartographic Association (ICA) Scholarship**
+  International Cartographic Association (ICA) Scholarship
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
-  **CaGIS International Conference Grant**
+  CaGIS International Conference Grant
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
-  **2nd Place, AAG GISS-SG Student Paper Competition**
+  2nd Place, AAG GISS-SG Student Paper Competition
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
-  **AAG SAM-SG Student Travel Award**
+  AAG SAM-SG Student Travel Award
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023</span>
-  **Texas GIS Day Graduate Student Research Competition Awardee**
+  Texas GIS Day Graduate Student Research Competition Awardee
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2019 & 2020</span>
-  **Scholarship, Sun Yat-Sen University**
+  Scholarship, Sun Yat-Sen University
 
 # 📖 Educations
 - **Texas A&M University**, College Station, TX, USA  
