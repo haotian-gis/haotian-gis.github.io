@@ -7,25 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Geography at Texas A&M University, where my research explores urban human dynamics, human–environment interactions, and the development of GeoAI methods for understanding how people respond to environmental and climatic stressors.
+I am a Ph.D. student in the Department of Geography at Texas A&M University and a member of the
+<a href="https://www.gis-resilience.info/" target="_blank">GIScience for Resilience (GIResilience) Lab</a>, supervised by
+<a href="https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html" target="_blank">Dr. Heng Cai</a>.
+My research explores urban human dynamics, human–environment interactions, and the development of GeoAI methods to understand how people respond to environmental and climatic stressors.
 
-My work integrates multi-source sensing data—including mobile phone mobility traces, ambient seismic noise, distributed acoustic sensing (DAS), and remote-sensing products—to reveal fine-grained patterns of human behavior, urban activity rhythms, and resilience during extreme events such as heatwaves and winter storms. I aim to bridge large-scale spatial analytics with real-world applications that support resilient, equitable, and climate-adaptive urban futures.
+My work integrates multi-source sensing data, including mobile phone mobility traces, ambient seismic noise, distributed acoustic sensing (DAS), and remote-sensing products, to reveal fine-grained patterns of human behavior, urban activity rhythms, and resilience during extreme events such as heatwaves and winter storms. I aim to bridge large-scale spatial analytics with real-world applications that support resilient, equitable, and climate-adaptive urban futures.
 
 Across my projects, I am passionate about:
--Developing computational approaches to quantify human activity and urban adaptation
--Leveraging AI and spatial modeling to uncover hidden behavioral patterns
--Translating complex datasets into actionable insights for climate resilience and urban planning
--Building interdisciplinary collaborations across geography, data science, and geophysics
+- Developing computational approaches to quantify human activity and urban adaptation
+- Leveraging AI and spatial modeling to uncover hidden behavioral patterns
+- Translating complex datasets into actionable insights for climate resilience and urban planning
+- Building interdisciplinary collaborations across geography, data science, and geophysics
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
