@@ -31,7 +31,6 @@ Across my projects, I am passionate about:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
 ## Journal Articles
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,13 +46,25 @@ Across my projects, I am passionate about:
 </div>
 </div>
 
+<br>
+
+- <div class='paper-box'>
+  <div class='paper-box-text' markdown="1">
+    <span class="badge">JEMA 2024</span>
+    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,
+    A, B, C, **CVPR 2020**
+  </div>
+</div>
+
 
 ## Book Chapters
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div>
-<div class='paper-box-text' markdown="1">
-[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-  
-
+- <div class='paper-box'>
+  <div class='paper-box-text' markdown="1">
+    <span class="badge">JEMA 2024</span>
+    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,
+    A, B, C, **CVPR 2020**
+  </div>
+</div>
 
 
 
