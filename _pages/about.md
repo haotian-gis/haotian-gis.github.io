@@ -54,11 +54,6 @@ Across my projects, I am passionate about:
 - Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
 - Proposes new behavioral resilience metrics and interpretable spatial patterns
 
-</div>
-</div>
-
-<br/>
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
