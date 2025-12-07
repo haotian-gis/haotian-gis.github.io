@@ -46,30 +46,43 @@ Across my projects, I am passionate about:
 </div>
 </div>
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">JEMA 2024</span>
-  <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,  
-  A, B, C, **CVPR 2020**
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Environmental Research 2021</span>
+  <a href="https://doi.org/10.1016/j.envres.2021.111544">Effects of high-frequency temperature variabilities on the morbidity of chronic obstructive pulmonary disease: Evidence in 21 cities of Guangdong, South China</a>  
+  **Hao Tian**, Yumin Zhou, Zihui Wang, Xiaoliang Huang, Erjia Ge, Sijia Wu, Peng Wang, Xuelin Tong, Pixin Ran, Ming Luo.  
+  *Environmental Research*, 2021, 201(1): 111544.
 
-  
-- <div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-    <strong>JEMA 2024</strong>
-    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,
-    A, B, C, **CVPR 2020**
-  </div>
-</div>
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Urban Climate 2021</span>
+  <a href="https://doi.org/10.1016/j.uclim.2021.100910">Urbanization contribution to human perceived temperature changes in major urban agglomerations of China</a>  
+  Peng Wang, Ming Luo, Weilin Liao, Yong Xu, Sijia Wu, Xuelin Tong, **Hao Tian**, Feng Xu, Yu Han.  
+  *Urban Climate*, 2021, 38(4): 100910.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">STOTEN 2021</span>
+  <a href="https://doi.org/10.1016/j.scitotenv.2021.149166">Urbanization-driven increases in summertime compound heat extremes across China</a>  
+  Sijia Wu, Peng Wang, Xuelin Tong, **Hao Tian**, Yongquan Zhao, Ming Luo.  
+  *Science of The Total Environment*, 2021, 799: 149166.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Frontiers in Earth Science 2021</span>
+  <a href="https://doi.org/10.3389/feart.2021.636777">Increasing Compound Heat and Precipitation Extremes Elevated by Urbanization in South China</a>  
+  Sijia Wu, Ting On Chan, Wei Zhang, Guicai Ning, Peng Wang, Xuelin Tong, Feng Xu, **Hao Tian**, Yu Han, Yongquan Zhao, Ming Luo.  
+  *Frontiers in Earth Science*, 2021, 9(475): 636777.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Urban Climate 2020</span>
+  <a href="https://doi.org/10.1016/j.uclim.2020.100740">Estimating PM2.5 from multisource data: A comparison of different machine learning models in the Pearl River Delta of China</a>  
+  **Hao Tian**, Yongquan Zhao, Ming Luo, Qingqing He, Yu Han, Zhaoliang Zeng.  
+  *Urban Climate*, 2020, 35(3): 100740.
 
 
 
 ## Book Chapters
-- <div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-    <span class="badge">JEMA 2024</span>
-    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>,
-    A, B, C, **CVPR 2020**
-  </div>
-</div>
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Springer 2025</span>
+  Zhou, B., Lin, B., Zou, L., Yang, M., **Tian, H.**, & Cai, H. (2025).  
+  <em>Integrating natural language processing in human geography.</em>  
+  In X. Huang, S. Wang, J. Wilson, & P. Kedron (Eds.), <em>GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era</em> (pp. 43–61). Springer Nature Switzerland.
 
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Routledge 2024</span>
+  Li, X., Zhang, Y., Li, D., Cai, H., & **Tian, H.** (2024).  
+  <em>Spatiotemporal Visitor Characterization through SafeGraph Data Analysis.</em>  
+  In <em>Contemporary Landscape Performance Methods and Techniques</em> (pp. 153–165). Routledge.
 
 
 # 🎖 Honors and Awards
