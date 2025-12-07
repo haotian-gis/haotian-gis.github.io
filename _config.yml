@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Tian"
-  avatar           : "image/haotian.PNG"
+  avatar           : "images/haotian.PNG"
   bio              : "Ph.D. student at Texas A&M University. My research focuses on GIScience, Urban Human Dynamics, Social & Seismic  Sensing, and GeoAI."
   location         : "College Station, TX, USA"
   employer         :
