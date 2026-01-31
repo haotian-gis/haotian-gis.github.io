@@ -24,16 +24,12 @@ Across my projects, I am passionate about:
 
 
 <p align="center">
-  <img src="/images/urbanDynamic.png" 
+  <img src="/images/urbanDynamic2.png" 
        alt="Urban Social Sensing Framework"
-       style="max-width: 80%; height: auto;">
+       style="max-width: 75%; height: auto;">
 </p>
 
 <p align="center">
-<em>
-A conceptual framework illustrating my research on AI-enabled multi-source urban sensing 
-to understand urban human dynamics and resilience.
-</em>
 </p>
 
 # 🔥 News
