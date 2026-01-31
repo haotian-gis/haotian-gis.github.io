@@ -26,7 +26,7 @@ Across my projects, I am passionate about:
 <p align="center">
   <img src="/images/urbanDynamic2.png" 
        alt="Urban Social Sensing Framework"
-       style="max-width: 75%; height: auto;">
+       style="max-width: 60%; height: auto;">
 </p>
 
 <p align="center">
