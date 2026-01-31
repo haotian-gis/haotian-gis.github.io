@@ -22,6 +22,20 @@ Across my projects, I am passionate about:
 - Translating complex datasets into actionable insights for climate resilience and urban planning
 - Building interdisciplinary collaborations across geography, data science, and geophysics
 
+
+<p align="center">
+  <img src="/images/urbanDynamic.png" 
+       alt="Urban Social Sensing Framework"
+       style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+<em>
+A conceptual framework illustrating my research on AI-enabled multi-source urban sensing 
+to understand urban human dynamics and resilience.
+</em>
+</p>
+
 # 🔥 News
 - *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
 
