@@ -293,12 +293,12 @@ School of Geo-Science and Technology
   </figure>
 
   <figure>
-    <img src="/images/sydney.png" alt="Photo 3">
+    <img src="/images/sydney3.jpg" alt="Photo 3">
     <figcaption>Sydney, 2025</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/sydney3.JPG" alt="Photo 4">
+    <img src="/images/sydney2.JPG" alt="Photo 4">
     <figcaption>Sydney, 2025</figcaption>
   </figure>
 
