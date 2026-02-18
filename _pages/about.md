@@ -255,6 +255,30 @@ School of Geo-Science and Technology
 - *Urban Resilience and Sustainability*  
 - *Tourism Geographies*
 
+<style>
+.photo-grid-2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  max-width: 1000px;
+  margin: 1.5em auto;
+}
+.photo-grid-2x3 figure {
+  margin: 0;
+  text-align: center;
+}
+.photo-grid-2x3 img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.photo-grid-2x3 figcaption {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 6px;
+}
+</style>
+
 # 📷 Photography
 
 <div class="photo-grid-2x3">
