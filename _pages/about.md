@@ -32,8 +32,6 @@ Across my projects, I am passionate about:
 <p align="center">
 </p>
 
-<hr style="margin: 2em 0;">
-
 Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
@@ -256,6 +254,23 @@ School of Geo-Science and Technology
 - *Scientific Reports*  
 - *Urban Resilience and Sustainability*  
 - *Tourism Geographies*
+
+# 📷 Photography
+
+<div class="photo-grid">
+  <a href="/images/photography/photo1.jpg" target="_blank">
+    <img src="/images/photography/photo1.jpg" alt="Photography 1">
+  </a>
+  <a href="/images/photography/photo2.jpg" target="_blank">
+    <img src="/images/photography/photo2.jpg" alt="Photography 2">
+  </a>
+  <a href="/images/photography/photo3.jpg" target="_blank">
+    <img src="/images/photography/photo3.jpg" alt="Photography 3">
+  </a>
+  <a href="/images/photography/photo4.jpg" target="_blank">
+    <img src="/images/photography/photo4.jpg" alt="Photography 4">
+  </a>
+</div>
 
 # 🌍 Visitor Map
 
