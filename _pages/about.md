@@ -257,12 +257,40 @@ School of Geo-Science and Technology
 
 # 📷 Photography
 
-<div class="photo-grid">
-  <img src="/images/Hawaii.jpg" alt="Hawaii">
+<div class="photo-grid-2x3">
+  <figure>
+    <img src="/images/Hawaii.jpg" alt="Hawaii">
+    <figcaption>Hawaii, 2024</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/newzealand.jpeg" alt="Photo 2">
+    <figcaption>Queenstown, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/sydney.png" alt="Photo 3">
+    <figcaption>Sydney, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/sydney2.JPG" alt="Photo 4">
+    <figcaption>Sydney, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/detroit.JPG" alt="Photo 5">
+    <figcaption>Detroit, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/wanaka.jpg" alt="Photo 6">
+    <figcaption>Wanaka, 2025</figcaption>
+  </figure>
 </div>
 
 <div style="display:flex; justify-content:center; margin: 2em 0;">
-  <video 
+  <video
     src="/images/northlight.MP4"
     controls
     muted
@@ -270,6 +298,9 @@ School of Geo-Science and Technology
     playsinline
     style="max-width: 800px; width: 100%; border-radius: 10px;"
   >
+    Your browser does not support the video tag.
+  </video>
+</div>
     
 # 🌍 Visitor Map
 
