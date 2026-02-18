@@ -258,12 +258,19 @@ School of Geo-Science and Technology
 # 📷 Photography
 
 <div class="photo-grid">
-  <img src="/images/photography/photo1.jpg" alt="Photography 1">
-  <img src="/images/photography/photo2.jpg" alt="Photography 2">
-  <img src="/images/photography/photo3.jpg" alt="Photography 3">
-  <img src="/images/photography/photo4.jpg" alt="Photography 4">
+  <img src="/images/Hawaii.jpg" alt="Hawaii">
 </div>
 
+<div style="display:flex; justify-content:center; margin: 2em 0;">
+  <video 
+    src="/images/northlight.MP4"
+    controls
+    muted
+    loop
+    playsinline
+    style="max-width: 800px; width: 100%; border-radius: 10px;"
+  >
+    
 # 🌍 Visitor Map
 
 <div style="display:flex; justify-content:center; margin: 20px 0;">
