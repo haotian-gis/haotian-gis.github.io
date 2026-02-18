@@ -34,12 +34,7 @@ Across my projects, I am passionate about:
 
 <hr style="margin: 2em 0;">
 
-<p style="text-align: center; font-size: 0.95em;">
-  Outside of research, I enjoy
-  <i class="fa-solid fa-person-hiking"></i> hiking,
-  <i class="fa-solid fa-person-swimming"></i> swimming, and
-  <i class="fa-solid fa-camera"></i> photography.
-</p>
+Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
 - *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
