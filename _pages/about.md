@@ -258,18 +258,10 @@ School of Geo-Science and Technology
 # 📷 Photography
 
 <div class="photo-grid">
-  <a href="/images/photography/photo1.jpg" target="_blank">
-    <img src="/images/photography/photo1.jpg" alt="Photography 1">
-  </a>
-  <a href="/images/photography/photo2.jpg" target="_blank">
-    <img src="/images/photography/photo2.jpg" alt="Photography 2">
-  </a>
-  <a href="/images/photography/photo3.jpg" target="_blank">
-    <img src="/images/photography/photo3.jpg" alt="Photography 3">
-  </a>
-  <a href="/images/photography/photo4.jpg" target="_blank">
-    <img src="/images/photography/photo4.jpg" alt="Photography 4">
-  </a>
+  <img src="/images/photography/photo1.jpg" alt="Photography 1">
+  <img src="/images/photography/photo2.jpg" alt="Photography 2">
+  <img src="/images/photography/photo3.jpg" alt="Photography 3">
+  <img src="/images/photography/photo4.jpg" alt="Photography 4">
 </div>
 
 # 🌍 Visitor Map
