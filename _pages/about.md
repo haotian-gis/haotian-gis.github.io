@@ -298,7 +298,7 @@ School of Geo-Science and Technology
   </figure>
 
   <figure>
-    <img src="/images/sydney2.JPG" alt="Photo 4">
+    <img src="/images/sydney3.JPG" alt="Photo 4">
     <figcaption>Sydney, 2025</figcaption>
   </figure>
 
@@ -313,24 +313,29 @@ School of Geo-Science and Technology
   </figure>
 </div>
 
-<div style="display:flex; justify-content:center; margin: 2em 0;">
-  <video
-    src="/images/northlight.MP4"
-    controls
-    muted
-    loop
-    playsinline
-    style="max-width: 800px; width: 100%; border-radius: 10px;"
-  >
-    Your browser does not support the video tag.
+<div style="
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:18px;
+  max-width:1000px;
+  margin:2em auto;
+">
+  <video src="/images/northlight.MP4"
+         controls muted loop playsinline
+         style="width:100%; aspect-ratio:16/9; border-radius:10px;">
+  </video>
+
+  <video src="/images/sky.MOV"
+         controls muted loop playsinline
+         style="width:100%; aspect-ratio:16/9; border-radius:10px;">
   </video>
 </div>
-    
+
 # 🌍 Visitor Map
 
 <div style="display:flex; justify-content:center; margin: 20px 0;">
   <div style="
-      max-width: 900px; 
+      max-width: 450px; 
       width: 100%; 
       border-radius: 12px; 
       overflow: hidden; 
