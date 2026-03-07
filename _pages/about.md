@@ -261,6 +261,7 @@ School of Geo-Science and Technology
 
 ## Reviewer Services
 
+- *Computers, Environment and Urban Systems* 
 - *Annals of GIS*  
 - *Scientific Reports*  
 - *Urban Resilience and Sustainability*  
