@@ -115,22 +115,22 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🎖 Honors and Awards
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
-  AAG International Geographic Information Fund (IGIF) Student Paper Award 
+  AAG International Geographic Information Fund (IGIF) Student Paper Award ($600) 
   
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
-  International Cartographic Association (ICA) Scholarship
+  International Cartographic Association (ICA) Scholarship ($450)
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
-  CaGIS International Conference Grant
+  CaGIS International Conference Grant ($2100)
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
-  2nd Place, AAG GISS-SG Student Paper Competition
+  2nd Place, AAG GISS-SG Student Paper Competition ($450)
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
-  AAG SAM-SG Student Travel Award
+  AAG SAM-SG Student Travel Award ($250)
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023</span>
-  Texas GIS Day Graduate Student Research Competition Awardee
+  Texas GIS Day Graduate Student Research Competition Awardee ($150)
 
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2019 & 2020</span>
   Scholarship, Sun Yat-Sen University
@@ -151,6 +151,13 @@ School of Geo-Science and Technology
 
 
 # 🎤 Talks & Presentations
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2026.03 Invited Presentation
+  </span>  
+  Can Seismic Signals Decode Human Behavior? Toward a Data-Driven Understanding of Human Dynamics.  
+  TAMIDS Ambassador Seminar, Texas A&M Institute of Data Science, College Station, TX, U.S.A.
+
 - <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
                font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
     2025.11 Invited Presentation
