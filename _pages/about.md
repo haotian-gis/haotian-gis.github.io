@@ -123,6 +123,9 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
   CaGIS International Conference Grant ($2100)
 
+  - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  AAG Jeanne X. Kasperson Student Paper Award (Co-author) ($250)
+
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
   2nd Place, AAG GISS-SG Student Paper Competition ($450)
 
