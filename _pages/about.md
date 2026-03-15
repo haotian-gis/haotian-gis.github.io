@@ -35,6 +35,7 @@ Across my projects, I am passionate about:
 Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
+- *2026.03.15* — Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026–2027 term. 
 - *2026.02.11* — Received AAG International Geographic Information Fund (IGIF) Student Paper Award 
 - *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
 
@@ -252,6 +253,16 @@ School of Geo-Science and Technology
   AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
   *(Co-organized with Cong Ma)*
 
+## Leadership & Service
+
+- **Student Director (Board Member)**, Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), 2026–2027
+
+- **Journal Reviewer**  
+  - *Computers, Environment and Urban Systems*  
+  - *Annals of GIS*  
+  - *Scientific Reports*  
+  - *Urban Resilience and Sustainability*  
+  - *Tourism Geographies*
 
 ## Memberships
 
@@ -260,15 +271,6 @@ School of Geo-Science and Technology
 - University Consortium for Geographic Information Science (**UCGIS**)  
 - Cartography and Geographic Information Society (**CaGIS**)  
 - GISphere — *Global non-profit GIS education initiative*  
-
-
-## Reviewer Services
-
-- *Computers, Environment and Urban Systems* 
-- *Annals of GIS*  
-- *Scientific Reports*  
-- *Urban Resilience and Sustainability*  
-- *Tourism Geographies*
 
 <style>
 .photo-grid-2x3 {
