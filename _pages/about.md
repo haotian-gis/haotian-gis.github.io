@@ -233,6 +233,11 @@ School of Geo-Science and Technology
 
 ## Conference Services
 
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Organizer · AAG 2026</span>  
+  Session: *GISER Symposium: Human Networks and Data Science (Panel)*  
+  American Association of Geographers (AAG 2026), 17–21 Mar 2026, San Francisco, USA.  
+  *(Co-organized with Dr. Lei Zou)*
+
 - <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2026</span>  
   Session: *GISER Symposium: Sensing Urban Human Dynamics Through Multi-Source Insights (Part I & II)*  
   American Association of Geographers (AAG 2026), 17–21 Mar 2026, San Francisco, USA.  
@@ -252,7 +257,7 @@ School of Geo-Science and Technology
   AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
   *(Co-organized with Dr. Heng Cai)*
 
-- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Co-Chair · AAG 2024</span>  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Organizer · AAG 2024</span>  
   Session: *Symposium on Community Resilience Research: Data-Driven Approaches for Extreme Heat, Health, and Resilience*  
   AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
   *(Co-organized with Cong Ma)*
