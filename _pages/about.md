@@ -35,6 +35,7 @@ Across my projects, I am passionate about:
 Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
+- *2026.03.20* — Awarded 2nd Place in the AAG RSSG Student Paper Competition
 - *2026.03.15* — Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026–2027 term. 
 - *2026.02.11* — Received AAG International Geographic Information Fund (IGIF) Student Paper Award 
 - *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
@@ -115,6 +116,9 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 
 # 🎖 Honors and Awards
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
+  2nd Place, AAG RSSG Student Paper Competition ($250)
+  
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
   AAG International Geographic Information Fund (IGIF) Student Paper Award ($600) 
   
