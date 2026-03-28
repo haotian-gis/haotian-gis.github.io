@@ -35,6 +35,7 @@ Across my projects, I am passionate about:
 Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
+- *2026.03.28* — Added this news item automatically using Codex.
 - *2026.03.20* — Awarded 2nd Place in the AAG RSSG Student Paper Competition
 - *2026.03.15* — Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026–2027 term. 
 - *2026.02.11* — Received AAG International Geographic Information Fund (IGIF) Student Paper Award 
@@ -115,7 +116,7 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
   In <em>Contemporary Landscape Performance Methods and Techniques</em> (pp. 153–165). Routledge.
 
 
-# 🎖 Honors and Awards
+# 🏖 Honors and Awards
 - <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
   2nd Place, AAG RSSG Student Paper Competition ($250)
   
