@@ -270,7 +270,8 @@ School of Geo-Science and Technology
 - **Journal Reviewer**  
   - *Computers, Environment and Urban Systems*  
   - *Annals of GIS*  
-  - *Scientific Reports*  
+  - *Scientific Reports*
+  - *Humanities and Social Sciences Communications*
   - *Urban Resilience and Sustainability*  
   - *Tourism Geographies*
 
