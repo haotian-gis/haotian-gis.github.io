@@ -35,7 +35,6 @@ Across my projects, I am passionate about:
 Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 🔥 News
-- *2026.03.28* — Added this news item automatically using Codex.
 - *2026.03.20* — Awarded 2nd Place in the AAG RSSG Student Paper Competition
 - *2026.03.15* — Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026–2027 term. 
 - *2026.02.11* — Received AAG International Geographic Information Fund (IGIF) Student Paper Award 
