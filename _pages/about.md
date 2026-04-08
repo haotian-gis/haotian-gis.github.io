@@ -266,6 +266,8 @@ School of Geo-Science and Technology
 
 - **Student Director (Board Member)**, Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), 2026–2027
 
+- **Communications Committee**, University Consortium for Geographic Information Science (UCGIS), 2026–Present 
+ 
 - **Journal Reviewer**  
   - *Computers, Environment and Urban Systems*  
   - *Annals of GIS*  
