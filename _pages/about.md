@@ -42,20 +42,6 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 # 📝 Publications 
 ## Journal Articles
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Unveiling community adaptations to extreme heat events using mobile phone location data](https://doi.org/10.1016/j.jenvman.2024.121665)
-
-**Hao Tian**, Heng Cai, Leiqiu Hu, Yi Qiang, Bing Zhou, Mingzheng Yang, Binbin Lin  
-*Journal of Environmental Management*, 2024, Vol. 366: 121665.
-
-- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
-- Proposes new behavioral resilience indices and interpretable spatial patterns  
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2026</div><img src='images/CEUS.jpg' alt="Ambient seismic noise workflow for sensing human activity disruptions" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,6 +52,20 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 - Uses ambient seismic noise to quantify disruption and recovery patterns in human activity during extreme weather events  
 - Validates seismic-derived urban sensing signals with mobility, flight, and meteorological observations across space and frequency bands  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling community adaptations to extreme heat events using mobile phone location data](https://doi.org/10.1016/j.jenvman.2024.121665)
+
+**Hao Tian**, Heng Cai, Leiqiu Hu, Yi Qiang, Bing Zhou, Mingzheng Yang, Binbin Lin  
+*Journal of Environmental Management*, 2024, Vol. 366: 121665.
+
+- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
+- Proposes new behavioral resilience indices and interpretable spatial patterns  
 
 </div>
 </div>
@@ -382,5 +382,4 @@ School of Geo-Science and Technology
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hbhsZZj76WeM5gAU6on3Roph9tB9F0MWKLMITxDAB6c&cl=ffffff&w=a"></script>
   </div>
 </div>
-
 
