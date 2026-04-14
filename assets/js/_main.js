@@ -57,8 +57,13 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // init smooth scroll
-  $("a").smoothScroll({offset: -20});
+  // only apply smooth scrolling to same-page anchors so external protocols
+  // like mailto: keep their native browser behavior
+  $("a[href*='#']").filter(function() {
+    return this.hash &&
+      this.pathname.replace(/^\//, "") === location.pathname.replace(/^\//, "") &&
+      this.hostname === location.hostname;
+  }).smoothScroll({offset: -20});
 
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
