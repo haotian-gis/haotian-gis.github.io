@@ -56,10 +56,19 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 </div>
 </div>
 
-- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">CEUS 2025</span>
-  <a>From Seismic Signals to Urban Sensing: Leveraging Ambient Seismic Noise to Sense Human Activity Disruptions in Extreme Weather Events</a>  
-  **Hao Tian**, Cai H, Chen X, Ahmad MG, Arther L.  
-  *Computers, Environment and Urban Systems*, 2025. (Under Review)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2026</div><img src='images/CEUS.jpg' alt="Ambient seismic noise workflow for sensing human activity disruptions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From seismic signals to urban sensing: Leveraging ambient seismic noise to sense human activity disruptions in extreme weather events](https://doi.org/10.1016/j.compenvurbsys.2026.102441)
+
+**Hao Tian**, Heng Cai, Xiaolong Chen, A. M. Ghanatghestani, Lauren Arthur  
+*Computers, Environment and Urban Systems*, 2026, Vol. 127: 102441.
+
+- Uses ambient seismic noise to quantify disruption and recovery patterns in human activity during extreme weather events  
+- Validates seismic-derived urban sensing signals with mobility, flight, and meteorological observations across space and frequency bands  
+
+</div>
+</div>
   
 - <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">IJDRR 2025</span>
   <a>Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl</a>  
@@ -373,6 +382,5 @@ School of Geo-Science and Technology
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hbhsZZj76WeM5gAU6on3Roph9tB9F0MWKLMITxDAB6c&cl=ffffff&w=a"></script>
   </div>
 </div>
-
 
 
