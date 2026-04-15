@@ -47,7 +47,7 @@ Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
 
 [From seismic signals to urban sensing: Leveraging ambient seismic noise to sense human activity disruptions in extreme weather events](https://doi.org/10.1016/j.compenvurbsys.2026.102441)
 
-**Hao Tian**, Heng Cai, Xiaolong Chen, A. M. Ghanatghestani, Lauren Arthur  
+**Hao Tian**, Heng Cai, Xiaowei Chen, Ahmad Mohammadi Ghanatghestani, Lawrence N.B Arthur
 *Computers, Environment and Urban Systems*, 2026, Vol. 127: 102441.
 
 - Uses ambient seismic noise to quantify disruption and recovery patterns in human activity during extreme weather events  
