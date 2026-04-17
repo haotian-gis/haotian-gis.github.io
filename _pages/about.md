@@ -279,6 +279,7 @@ School of Geo-Science and Technology
  
 - **Journal Reviewer**  
   - *Computers, Environment and Urban Systems*  
+  - *Journal of Transport Geography*
   - *Annals of GIS*  
   - *Scientific Reports*
   - *Humanities and Social Sciences Communications*
@@ -382,4 +383,3 @@ School of Geo-Science and Technology
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hbhsZZj76WeM5gAU6on3Roph9tB9F0MWKLMITxDAB6c&cl=ffffff&w=a"></script>
   </div>
 </div>
-
