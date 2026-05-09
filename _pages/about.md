@@ -2,159 +2,384 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: false
-body_class: "terminal-home"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+<span class='anchor' id='about-me'></span>
 
-<main class="terminal-profile" aria-label="Hao Tian homepage">
-  <section class="terminal-profile__identity">
-    <img src="/images/haotian.PNG" alt="Hao Tian" class="terminal-profile__avatar">
-    <h1>Hao Tian</h1>
-    <p>Ph.D. Student, Department of Geography, Texas A&amp;M University</p>
-    <p>Urban human dynamics · GeoAI · climate resilience · spatial sensing</p>
-  </section>
+I am a Ph.D. student in the Department of Geography at Texas A&M University and a member of the
+<a href="https://www.gis-resilience.info/" target="_blank">GIScience for Resilience (GIResilience) Lab</a>, supervised by
+<a href="https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html" target="_blank">Dr. Heng Cai</a>.
+My research explores urban human dynamics, human–environment interactions, and the development of GeoAI methods to understand how people respond to environmental and climatic stressors.
 
-  <nav class="terminal-profile__nav" aria-label="Homepage sections">
-    <button type="button" data-terminal-open="about">About</button>
-    <button type="button" data-terminal-open="news">News</button>
-    <button type="button" data-terminal-open="research">Research</button>
-    <button type="button" data-terminal-open="publications">Publications</button>
-    <button type="button" data-terminal-open="service">Service</button>
-    <button type="button" data-terminal-open="life">Life</button>
-    <a href="/about/">Archive</a>
-    <a href="https://scholar.google.com/citations?user=T5zW_C8AAAAJ&hl=zh-CN" target="_blank">Scholar↗</a>
-    <a href="mailto:haotian@tamu.edu">Email</a>
-  </nav>
+My work integrates multi-source sensing data, including mobile phone mobility traces, ambient seismic noise, distributed acoustic sensing (DAS), and remote-sensing products, to reveal fine-grained patterns of human behavior, urban activity rhythms, and resilience during extreme events such as heatwaves and winter storms. I aim to bridge large-scale spatial analytics with real-world applications that support resilient, equitable, and climate-adaptive urban futures.
 
-  <section class="terminal-window" aria-live="polite">
-    <div class="terminal-window__bar">
-      <span></span>
-      <span></span>
-      <span></span>
-      <strong id="terminal-title">about.md</strong>
-    </div>
-    <pre id="terminal-output" tabindex="0"></pre>
-  </section>
-</main>
+Across my projects, I am passionate about:
+- Developing computational approaches to quantify human activity and urban adaptation
+- Leveraging AI and spatial modeling to uncover hidden behavioral patterns
+- Translating complex datasets into actionable insights for climate resilience and urban planning
+- Building interdisciplinary collaborations across geography, data science, and geophysics
 
-<script type="application/json" id="terminal-content">
-{
-  "about": {
-    "title": "about.md",
-    "command": "open about",
-    "body": [
-      "Welcome to my homepage. I am Hao Tian, a Ph.D. student in the Department of Geography at Texas A&M University.",
-      "",
-      "I am a member of the GIScience for Resilience (GIResilience) Lab, advised by Dr. Heng Cai.",
-      "",
-      "My work uses mobility traces, ambient seismic noise, distributed acoustic sensing, remote sensing, and GeoAI to understand how cities move, adapt, and recover during environmental and climatic stressors.",
-      "",
-      "Contact:",
-      "- haotian [at] tamu.edu",
-      "- College Station, TX, USA"
-    ]
-  },
-  "news": {
-    "title": "news.log",
-    "command": "open news",
-    "body": [
-      "2026.03.20  Awarded 2nd Place in the AAG RSSG Student Paper Competition.",
-      "2026.03.15  Elected Student Director of the AAG Cyberinfrastructure Specialty Group.",
-      "2026.02.11  Received AAG International Geographic Information Fund Student Paper Award.",
-      "2025.10.17  Successfully passed my Ph.D. preliminary exam at Texas A&M University."
-    ]
-  },
-  "research": {
-    "title": "research_statement.txt",
-    "command": "open research",
-    "body": [
-      "I study urban human dynamics and human-environment interactions through large-scale spatial sensing data.",
-      "",
-      "Current questions:",
-      "- How can mobility, seismic, and remote-sensing data jointly capture disruptions in human activity?",
-      "- How do communities adapt unequally to climate stress?",
-      "- How can GeoAI translate complex urban signals into actionable resilience and planning insights?",
-      "",
-      "Keywords:",
-      "GeoAI / urban sensing / human mobility / climate resilience / disaster response"
-    ]
-  },
-  "publications": {
-    "title": "publications.bib",
-    "command": "open publications",
-    "body": [
-      "- Tian H., Cai H., Chen X., Ghanatghestani A. M., Arthur L. N. B.",
-      "  From seismic signals to urban sensing. Computers, Environment and Urban Systems, 2026.",
-      "  https://doi.org/10.1016/j.compenvurbsys.2026.102441",
-      "",
-      "- Tian H., Cai H., Hu L., Qiang Y., Zhou B., Yang M., Lin B.",
-      "  Unveiling community adaptations to extreme heat events. Journal of Environmental Management, 2024.",
-      "  https://doi.org/10.1016/j.jenvman.2024.121665",
-      "",
-      "- Zhou B., Zou L., Yang M., Lin B., Mandal D., Abedin J., Cai H., Ji S., Klein A., Tian H.",
-      "  Rapid disaster response and damage estimation with social media and pretrained LLMs. AAAG, 2025.",
-      "  https://doi.org/10.1080/24694452.2025.2560491",
-      "",
-      "Full list: /about/#-publications"
-    ]
-  },
-  "service": {
-    "title": "service.yaml",
-    "command": "open service",
-    "body": [
-      "academic_service:",
-      "  - Student Director, AAG Cyberinfrastructure Specialty Group, 2026-2027",
-      "  - Communications Committee, UCGIS, 2026-present",
-      "  - Session Chair / Organizer, AAG 2024, AAG 2025, AAG 2026, ICC 2025",
-      "",
-      "reviewing:",
-      "  - Computers, Environment and Urban Systems",
-      "  - Journal of Transport Geography",
-      "  - Annals of GIS",
-      "  - Scientific Reports"
-    ]
-  },
-  "life": {
-    "title": "life.txt",
-    "command": "open life",
-    "body": [
-      "Outside of research, I enjoy hiking, swimming, and photography.",
-      "",
-      "Selected awards:",
-      "- AAG RSSG Student Paper Competition, 2nd Place, 2026",
-      "- AAG International Geographic Information Fund Student Paper Award, 2026",
-      "- International Cartographic Association Scholarship, 2025",
-      "- CaGIS International Conference Grant, 2025"
-    ]
-  }
+
+<p align="center">
+  <img src="/images/urbanDynamic2.png" 
+       alt="Urban Social Sensing Framework"
+       style="max-width: 60%; height: auto;">
+</p>
+
+<p align="center">
+</p>
+
+Outside of research, I enjoy 🥾 hiking, 🏊 swimming, and 📷 photography.
+
+# 🔥 News
+- *2026.03.20* — Awarded 2nd Place in the AAG RSSG Student Paper Competition
+- *2026.03.15* — Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026–2027 term. 
+- *2026.02.11* — Received AAG International Geographic Information Fund (IGIF) Student Paper Award 
+- *2025.10.17* — Successfully passed my Ph.D. preliminary exam at Texas A&M University.
+
+# 📝 Publications 
+## Journal Articles
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2026</div><img src='images/CEUS.jpg' alt="Ambient seismic noise workflow for sensing human activity disruptions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From seismic signals to urban sensing: Leveraging ambient seismic noise to sense human activity disruptions in extreme weather events](https://doi.org/10.1016/j.compenvurbsys.2026.102441)
+
+**Hao Tian**, Heng Cai, Xiaowei Chen, Ahmad Mohammadi Ghanatghestani, Lawrence N.B Arthur
+*Computers, Environment and Urban Systems*, 2026, Vol. 127: 102441.
+
+- Uses ambient seismic noise to quantify disruption and recovery patterns in human activity during extreme weather events  
+- Validates seismic-derived urban sensing signals with mobility, flight, and meteorological observations across space and frequency bands  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEMA 2024</div><img src='images/heatwave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling community adaptations to extreme heat events using mobile phone location data](https://doi.org/10.1016/j.jenvman.2024.121665)
+
+**Hao Tian**, Heng Cai, Leiqiu Hu, Yi Qiang, Bing Zhou, Mingzheng Yang, Binbin Lin  
+*Journal of Environmental Management*, 2024, Vol. 366: 121665.
+
+- Uses large-scale mobile phone location data to measure community-level adaptations to extreme heat  
+- Proposes new behavioral resilience indices and interpretable spatial patterns  
+
+</div>
+</div>
+  
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">IJDRR 2025</span>
+  <a>Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl</a>  
+  Lin B, Cai H, **Tian H**, Fu D, D Palash, Sumiya NN, Yin Z.  
+  *International Journal of Disaster Risk Reduction*, 2025. (Under Review)
+  
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Applied Geography 2025</span>
+  <a>Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data</a>  
+  Lin B, Zou L, Cai H, **Tian H**.  
+  *Applied Geography*, 2025. (Under Review)
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">AAAG 2025</span>
+  <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>  
+  Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, **Tian H**.  
+  *Annals of the American Association of Geographers*, 2025, 1-23.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Environmental Research 2021</span>
+  <a href="https://doi.org/10.1016/j.envres.2021.111544">Effects of high-frequency temperature variabilities on the morbidity of chronic obstructive pulmonary disease: Evidence in 21 cities of Guangdong, South China</a>  
+  **Hao Tian**, Yumin Zhou, Zihui Wang, Xiaoliang Huang, Erjia Ge, Sijia Wu, Peng Wang, Xuelin Tong, Pixin Ran, Ming Luo.  
+  *Environmental Research*, 2021, 201(1): 111544.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Urban Climate 2021</span>
+  <a href="https://doi.org/10.1016/j.uclim.2021.100910">Urbanization contribution to human perceived temperature changes in major urban agglomerations of China</a>  
+  Peng Wang, Ming Luo, Weilin Liao, Yong Xu, Sijia Wu, Xuelin Tong, **Hao Tian**, Feng Xu, Yu Han.  
+  *Urban Climate*, 2021, 38(4): 100910.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">STOTEN 2021</span>
+  <a href="https://doi.org/10.1016/j.scitotenv.2021.149166">Urbanization-driven increases in summertime compound heat extremes across China</a>  
+  Sijia Wu, Peng Wang, Xuelin Tong, **Hao Tian**, Yongquan Zhao, Ming Luo.  
+  *Science of The Total Environment*, 2021, 799: 149166.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Frontiers in Earth Science 2021</span>
+  <a href="https://doi.org/10.3389/feart.2021.636777">Increasing Compound Heat and Precipitation Extremes Elevated by Urbanization in South China</a>  
+  Sijia Wu, Ting On Chan, Wei Zhang, Guicai Ning, Peng Wang, Xuelin Tong, Feng Xu, **Hao Tian**, Yu Han, Yongquan Zhao, Ming Luo.  
+  *Frontiers in Earth Science*, 2021, 9(475): 636777.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Urban Climate 2020</span>
+  <a href="https://doi.org/10.1016/j.uclim.2020.100740">Estimating PM2.5 from multisource data: A comparison of different machine learning models in the Pearl River Delta of China</a>  
+  **Hao Tian**, Yongquan Zhao, Ming Luo, Qingqing He, Yu Han, Zhaoliang Zeng.  
+  *Urban Climate*, 2020, 35(3): 100740.
+
+
+
+## Book Chapters
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Springer 2025</span>
+  Zhou, B., Lin, B., Zou, L., Yang, M., **Tian, H.**, & Cai, H. (2025).  
+  <em>Integrating natural language processing in human geography.</em>  
+  In X. Huang, S. Wang, J. Wilson, & P. Kedron (Eds.), <em>GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era</em> (pp. 43–61). Springer Nature Switzerland.
+
+- <span style="background:#0052cc; color:white; padding:2px 6px; border-radius:3px; font-size:0.75em;">Routledge 2024</span>
+  Li, X., Zhang, Y., Li, D., Cai, H., & **Tian, H.** (2024).  
+  <em>Spatiotemporal Visitor Characterization through SafeGraph Data Analysis.</em>  
+  In <em>Contemporary Landscape Performance Methods and Techniques</em> (pp. 153–165). Routledge.
+
+
+# 🏖 Honors and Awards
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
+  2nd Place, AAG RSSG Student Paper Competition ($250)
+  
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2026</span>
+  AAG International Geographic Information Fund (IGIF) Student Paper Award ($600) 
+  
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  International Cartographic Association (ICA) Scholarship ($450)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  CaGIS International Conference Grant ($2100)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2025</span>
+  AAG Jeanne X. Kasperson Student Paper Award (Co-author) ($250)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
+  2nd Place, AAG GISS-SG Student Paper Competition ($450)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2024</span>
+  AAG SAM-SG Student Travel Award ($250)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2023</span>
+  Texas GIS Day Graduate Student Research Competition Awardee ($150)
+
+- <span style="background:#f5f5dc; color:#000; padding:2px 6px; border-radius:4px; font-size:0.75em;">2019 & 2020</span>
+  Scholarship, Sun Yat-Sen University
+
+# 📖 Educations
+- **Texas A&M University**, College Station, TX, USA  
+*Ph.D. in Geography*, 2023 – 2027 (expected)  
+Department of Geography  
+Supervisor: [Dr. Heng Cai](https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html)
+
+- **Sun Yat-Sen University**, Guangzhou, China  
+*M.Eng. in Engineering (Surveying and Mapping)*, 2019 – 2021  
+School of Geography and Planning  
+
+- **Zhengzhou University**, Zhengzhou, China  
+*B.S. in Geographic Information Science*, 2015 – 2019  
+School of Geo-Science and Technology  
+
+
+# 🎤 Talks & Presentations
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2026.03 Invited Presentation
+  </span>  
+  Can Seismic Signals Decode Human Behavior? Toward a Data-Driven Understanding of Human Dynamics.  
+  TAMIDS Ambassador Seminar, Texas A&M Institute of Data Science, College Station, TX, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2025.11 Invited Presentation
+  </span>  
+  Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+  Texas GIS Day, Texas A&M University, College Station, TX, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2025.11 Invited Presentation
+  </span>  
+  Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics.  
+  Fall 2025 Geography Colloquium, Texas A&M University, College Station, TX, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2025.08 Oral Presentation
+  </span>  
+  Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat.  
+  International Cartographic Conference (ICC 2025), Vancouver, BC, Canada.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2025.03 Oral Presentation
+  </span>  
+  Human responses to extreme heat through the lens of human mobility: A multiple-scales study across the United States.  
+  AAG 2025, Detroit, MI, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2024.04 Oral Presentation
+  </span>  
+  Unveiling Community Adaptations to Extreme Heat Events Using Mobile Phone Location Data.  
+  AAG 2024 GISS-SG Student Paper Competition, Honolulu, HI, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2024.01 Oral Presentation
+  </span>  
+  Case Study: Detection of heat waves and calculating heat index using meteorological data.  
+  Spring 2024 Spatiotemporal Analysis Workshop, Spatial Data Lab (SDL), Harvard CGA.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2023.12 Oral Presentation
+  </span>  
+  Unveiling Human Mobility Dynamics during Heat Waves Using Mobile Phone Data in the Houston Metropolitan Area.  
+  Texas GIS Day Student Competition, College Station, TX, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2023.10 Oral Presentation
+  </span>  
+  Unveiling Disparate Community Adaptations to Heat Extremes Using Mobile Phone Location Data.  
+  Urban Climate Solutions Workshop, College Station, TX, U.S.A.
+
+- <span style="background:#FFD79A; color:#000; padding:3px 8px; border-radius:4px; 
+               font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">
+    2020.12 Oral Presentation
+  </span>  
+  Assessing the effects of temperature on COPD admissions in Guangzhou based on a distributed lagged non-linear model.  
+  Urban Health 2020 Symposium, Guangzhou, China.
+
+## 📖 Academic Services
+
+## Conference Services
+
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Organizer · AAG 2026</span>  
+  Session: *GISER Symposium: Human Networks and Data Science (Panel)*  
+  American Association of Geographers (AAG 2026), 17–21 Mar 2026, San Francisco, USA.  
+  *(Co-organized with Dr. Lei Zou)*
+
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2026</span>  
+  Session: *GISER Symposium: Sensing Urban Human Dynamics Through Multi-Source Insights (Part I & II)*  
+  American Association of Geographers (AAG 2026), 17–21 Mar 2026, San Francisco, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+  
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · ICC 2025</span>  
+  Session: *Cartography in Early Warning and Crisis Management*  
+  International Cartographic Conference (ICC 2025), 18–22 Aug 2025, Vancouver, Canada.
+
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2025</span>  
+  Session: *Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
+  American Association of Geographers (AAG 2025), 23–28 Mar 2025, Detroit, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Chair · AAG 2024</span>  
+  Session: *Symposium on Community Resilience Research: Geospatial Data Science to Enhance Community Resilience to Urban Environmental Hazards*  
+  AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
+  *(Co-organized with Dr. Heng Cai)*
+
+- <span style="background:#ccd5ae; color:#000; padding:3px 8px; border-radius:4px; font-size:0.75em; font-weight:600; display:inline-block; white-space:nowrap;">Organizer · AAG 2024</span>  
+  Session: *Symposium on Community Resilience Research: Data-Driven Approaches for Extreme Heat, Health, and Resilience*  
+  AAG 2024, 16–20 Apr 2024, Honolulu, USA.  
+  *(Co-organized with Cong Ma)*
+
+## Leadership & Service
+
+- **Student Director (Board Member)**, Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), 2026–2027
+
+- **Communications Committee**, University Consortium for Geographic Information Science (UCGIS), 2026–Present 
+ 
+- **Journal Reviewer**  
+  - *Computers, Environment and Urban Systems*  
+  - *Journal of Transport Geography*
+  - *Annals of GIS*  
+  - *Scientific Reports*
+  - *Humanities and Social Sciences Communications*
+  - *Urban Resilience and Sustainability*  
+  - *Tourism Geographies*
+
+## Memberships
+
+- Chinese Professional in Geographic Information Sciences (**CPGIS**)  
+- American Association of Geographers (**AAG**)  
+- University Consortium for Geographic Information Science (**UCGIS**)  
+- Cartography and Geographic Information Society (**CaGIS**)  
+- GISphere — *Global non-profit GIS education initiative*  
+
+<style>
+.photo-grid-2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  max-width: 1000px;
+  margin: 1.5em auto;
 }
-</script>
+.photo-grid-2x3 figure {
+  margin: 0;
+  text-align: center;
+}
+.photo-grid-2x3 img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.photo-grid-2x3 figcaption {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 6px;
+}
+</style>
 
-<script>
-(function () {
-  var dataNode = document.getElementById('terminal-content');
-  var output = document.getElementById('terminal-output');
-  var title = document.getElementById('terminal-title');
-  var buttons = document.querySelectorAll('[data-terminal-open]');
-  if (!dataNode || !output || !title || !buttons.length) return;
+# 📷 Photography
 
-  var content = JSON.parse(dataNode.textContent);
+<div class="photo-grid-2x3">
+  <figure>
+    <img src="/images/Hawaii.jpg" alt="Hawaii">
+    <figcaption>Hawaii, 2024</figcaption>
+  </figure>
 
-  function render(key) {
-    var item = content[key] || content.about;
-    title.textContent = item.title;
-    output.textContent = '> ' + item.command + '\n\n' + item.body.join('\n');
-    buttons.forEach(function (button) {
-      button.classList.toggle('is-active', button.getAttribute('data-terminal-open') === key);
-    });
-  }
+  <figure>
+    <img src="/images/newzealand.jpeg" alt="Photo 2">
+    <figcaption>Queenstown, 2025</figcaption>
+  </figure>
 
-  buttons.forEach(function (button) {
-    button.addEventListener('click', function () {
-      render(button.getAttribute('data-terminal-open'));
-    });
-  });
+  <figure>
+    <img src="/images/sydney3.jpg" alt="Photo 3">
+    <figcaption>Sydney, 2025</figcaption>
+  </figure>
 
-  render('about');
-})();
-</script>
+  <figure>
+    <img src="/images/sydney2.JPG" alt="Photo 4">
+    <figcaption>Sydney, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/detroit.JPG" alt="Photo 5">
+    <figcaption>Detroit, 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/wanaka.jpg" alt="Photo 6">
+    <figcaption>Wanaka, 2025</figcaption>
+  </figure>
+</div>
+
+<div style="
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:18px;
+  max-width:1000px;
+  margin:2em auto;
+">
+  <video src="/images/northlight.MP4"
+         controls muted loop playsinline
+         style="width:100%; aspect-ratio:16/9; border-radius:10px;">
+  </video>
+
+  <video src="/images/sky.MOV"
+         controls muted loop playsinline
+         style="width:100%; aspect-ratio:16/9; border-radius:10px;">
+  </video>
+</div>
+
+# 🌍 Visitor Map
+
+<div style="display:flex; justify-content:center; margin: 20px 0;">
+  <div style="
+      max-width: 450px; 
+      width: 100%; 
+      border-radius: 12px; 
+      overflow: hidden; 
+      box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  ">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hbhsZZj76WeM5gAU6on3Roph9tB9F0MWKLMITxDAB6c&cl=ffffff&w=a"></script>
+  </div>
+</div>
