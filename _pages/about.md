@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student in the Department of Geography at Texas A&M University and a member of the
-<a href="https://www.gis-resilience.info/" target="_blank">GIScience for Resilience (GIResilience) Lab</a>, supervised by
+<a href="https://www.cityanalytics.info/" target="_blank">City Analytics & Informatics (CAI) Research Group</a>, supervised by
 <a href="https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html" target="_blank">Dr. Heng Cai</a>.
 My research explores urban human dynamics, human–environment interactions, and the development of GeoAI methods to understand how people respond to environmental and climatic stressors.
 
