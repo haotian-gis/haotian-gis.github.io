@@ -279,7 +279,8 @@ School of Geo-Science and Technology
 
 - **Communications Committee**, University Consortium for Geographic Information Science (UCGIS), 2026–Present 
  
-- **Journal Reviewer**  
+- **Journal Reviewer**
+  - *Nature Cities* 
   - *Computers, Environment and Urban Systems*  
   - *Journal of Transport Geography*
   - *Annals of GIS*  
