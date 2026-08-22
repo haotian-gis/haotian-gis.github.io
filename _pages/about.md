@@ -81,8 +81,9 @@ redirect_from:
   <section class="ht-section" id="news">
     <h2>news</h2>
     <ul class="ht-news">
+      <li><time>2026.08.05</time><span>My recent work was accepted to the <a href="https://sigspatial2026.sigspatial.org/">34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)</a>.</span></li>
       <li><time>2026.07.30</time><span>Selected as a TAMIDS Data Science Ambassador for the 2026-2027 cohort.</span></li>
-      <li><time>2026.07.03</time><span>Awarded the 2026 CaGIS Ph.D. Scholarship.</span></li>
+      <li><time>2026.07.03</time><span>Awarded the <a href="https://cartogis.org/awards/students/">2026 CaGIS Ph.D. Scholarship</a>.</span></li>
       <li><time>2026.03.20</time><span>Awarded 2nd Place in the AAG RSSG Student Paper Competition.</span></li>
       <li><time>2026.03.15</time><span>Elected Student Director (Board Member) of the Cyberinfrastructure Specialty Group (CISG), American Association of Geographers (AAG), for the 2026-2027 term.</span></li>
       <li><time>2026.02.11</time><span>Received AAG International Geographic Information Fund (IGIF) Student Paper Award.</span></li>
@@ -93,15 +94,16 @@ redirect_from:
   <section class="ht-section" id="awards">
     <h2>honors &amp; awards</h2>
     <ul class="ht-awards">
-      <li><strong>CaGIS Ph.D. Scholarship</strong><span>2026</span></li>
-      <li><strong>2nd Place, AAG RSSG Student Paper Competition</strong><span>2026</span></li>
-      <li><strong>AAG International Geographic Information Fund Student Paper Award</strong><span>2026</span></li>
-      <li><strong>International Cartographic Association Scholarship</strong><span>2025</span></li>
-      <li><strong>CaGIS International Conference Grant</strong><span>2025</span></li>
-      <li><strong>AAG Jeanne X. Kasperson Student Paper Award, Co-author</strong><span>2025</span></li>
-      <li><strong>2nd Place, AAG GISS-SG Student Paper Competition</strong><span>2024</span></li>
-      <li><strong>AAG SAM-SG Student Travel Award</strong><span>2024</span></li>
-      <li><strong>Texas GIS Day Graduate Student Research Competition Awardee</strong><span>2023</span></li>
+      <li><strong>The Texas A&amp;M Institute of Data Science (TAMIDS) Student Ambassador Scholarship</strong><span>2026-2027 · $2,000</span></li>
+      <li><strong>CaGIS Ph.D. Scholarship</strong><span>2026 · $1,500</span></li>
+      <li><strong>2nd Place, AAG RSSG Student Paper Competition</strong><span>2026 · $250</span></li>
+      <li><strong>AAG International Geographic Information Fund Student Paper Award</strong><span>2026 · $600</span></li>
+      <li><strong>International Cartographic Association Scholarship</strong><span>2025 · $450</span></li>
+      <li><strong>CaGIS International Conference Grant</strong><span>2025 · $2,100</span></li>
+      <li><strong>AAG Jeanne X. Kasperson Student Paper Award, Co-author</strong><span>2025 · $250</span></li>
+      <li><strong>2nd Place, AAG GISS-SG Student Paper Competition</strong><span>2024 · $450</span></li>
+      <li><strong>AAG SAM-SG Student Travel Award</strong><span>2024 · $250</span></li>
+      <li><strong>Texas GIS Day Graduate Student Research Competition Awardee</strong><span>2023 · $150</span></li>
     </ul>
   </section>
 
