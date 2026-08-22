@@ -47,6 +47,7 @@ redirect_from:
           <a href="https://www.linkedin.com/in/hao-tian-68b569279/"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
           <a href="https://github.com/haotian-gis"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
           <a href="https://scholar.google.com/citations?user=T5zW_C8AAAAJ&amp;hl=zh-CN"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
+          <a href="https://orcid.org/my-orcid?orcid=0009-0003-4564-8185"><i class="ai ai-orcid" aria-hidden="true"></i><span>ORCID</span></a>
           <a href="https://drive.google.com/file/d/1LbyHjOQFTNWeSxmr051JEIJglHO_6tXD/view?usp=sharing"><i class="fas fa-file-alt" aria-hidden="true"></i><span>CV</span></a>
         </nav>
       </div>
