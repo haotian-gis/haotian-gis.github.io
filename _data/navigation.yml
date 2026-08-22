@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Awards"
-    url: "/#awards"
-
   - title: "Publications"
     url: "/#publications"
 
   - title: "Education"
     url: "/#education"
+
+  - title: "Awards"
+    url: "/#awards"
 
   - title: "Talks"
     url: "/#talks"
