@@ -40,7 +40,7 @@ redirect_from:
 
     <aside class="ht-profile" aria-label="Profile">
       <div class="ht-profile__visual">
-        <img src="/images/haotian.PNG" alt="Hao Tian">
+        <img src="/images/hao-tian-geog-3.jpg" alt="Hao Tian">
         <nav class="ht-social" aria-label="Profile links">
           <a href="mailto:haotian@tamu.edu"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span></a>
           <a href="https://www.researchgate.net/profile/Hao-Tian-19"><i class="ai ai-researchgate" aria-hidden="true"></i><span>ResearchGate</span></a>
