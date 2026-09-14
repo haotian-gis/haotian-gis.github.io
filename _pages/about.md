@@ -48,7 +48,7 @@ redirect_from:
           <a href="https://github.com/haotian-gis"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
           <a href="https://scholar.google.com/citations?user=T5zW_C8AAAAJ&amp;hl=zh-CN"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
           <a href="https://orcid.org/my-orcid?orcid=0009-0003-4564-8185"><i class="ai ai-orcid" aria-hidden="true"></i><span>ORCID</span></a>
-          <a href="https://drive.google.com/file/d/1LbyHjOQFTNWeSxmr051JEIJglHO_6tXD/view?usp=sharing"><i class="fas fa-file-alt" aria-hidden="true"></i><span>CV</span></a>
+          <a href="https://tamucs-my.sharepoint.com/:b:/g/personal/haotian_tamu_edu/IQBEQ0AQ82AiQ4rzZsDXOZeDAfkBFKPIkmYYua5B0xIrags?e=JvecFj"><i class="fas fa-file-alt" aria-hidden="true"></i><span>CV</span></a>
         </nav>
       </div>
       <div class="ht-profile__meta">
