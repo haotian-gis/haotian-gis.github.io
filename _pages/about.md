@@ -174,6 +174,7 @@ redirect_from:
   <section class="ht-section" id="awards">
     <h2>honors &amp; awards</h2>
     <ul class="ht-awards">
+      <li><strong>ACM SIGSPATIAL 2026 Travel Award ($500)</strong><span>2026</span></li>
       <li><strong>The Texas A&amp;M Institute of Data Science (TAMIDS) Student Ambassador Scholarship ($2,000)</strong><span>2026</span></li>
       <li><strong>CaGIS Ph.D. Scholarship ($1,500)</strong><span>2026</span></li>
       <li><strong>2nd Place, AAG RSSG Student Paper Competition ($250)</strong><span>2026</span></li>
