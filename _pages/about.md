@@ -82,6 +82,7 @@ redirect_from:
   <section class="ht-section" id="news">
     <h2>news</h2>
     <ul class="ht-news">
+      <li><time>2026.10.12</time><span>Received a $500 Travel Award for <a href="https://sigspatial2026.sigspatial.org/">ACM SIGSPATIAL 2026</a>.</span></li>
       <li><time>2026.08.05</time><span>My recent work was accepted to the <a href="https://sigspatial2026.sigspatial.org/">34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)</a>.</span></li>
       <li><time>2026.07.30</time><span>Selected as a TAMIDS Data Science Ambassador for the 2026-2027 cohort.</span></li>
       <li><time>2026.07.03</time><span>Awarded the <a href="https://cartogis.org/awards/students/">2026 CaGIS Ph.D. Scholarship</a>.</span></li>
