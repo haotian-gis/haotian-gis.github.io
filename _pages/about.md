@@ -14,7 +14,7 @@ redirect_from:
     <div class="ht-intro__copy">
       <h1>Hao Tian</h1>
       <p class="ht-subtitle">
-        Ph.D. Student | GIScience | Urban Human Dynamics | GeoAI
+        Ph.D. Candidate | GIScience | Urban Human Dynamics | GeoAI
         <br>
         <a href="https://artsci.tamu.edu/geography/index.html">Department of Geography, Texas A&amp;M University</a> ·
         <a href="https://www.cityanalytics.info/">City Analytics &amp; Informatics (CAI) Lab</a>
@@ -22,7 +22,7 @@ redirect_from:
 
       <div class="ht-intro__summary">
         <p>
-          I am a Ph.D. student in the Department of Geography at Texas A&amp;M University and a member of the
+          I am a Ph.D. candidate in the Department of Geography at Texas A&amp;M University and a member of the
           <a href="https://www.cityanalytics.info/">City Analytics &amp; Informatics (CAI) Lab</a>, supervised by
           <a href="https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html">Dr. Heng Cai</a>.
           My research explores urban human dynamics, human-environment interactions, and GeoAI methods for understanding how people respond to environmental and climatic stressors.
@@ -52,7 +52,7 @@ redirect_from:
         </nav>
       </div>
       <div class="ht-profile__meta">
-        <p>Ph.D. Student</p>
+        <p>Ph.D. Candidate</p>
         <p>Texas A&amp;M University</p>
         <p>College Station, TX, USA</p>
       </div>
@@ -83,7 +83,7 @@ redirect_from:
     <h2>news</h2>
     <ul class="ht-news">
       <li><time>2026.10.12</time><span>Received a $500 Travel Award for <a href="https://sigspatial2026.sigspatial.org/">ACM SIGSPATIAL 2026</a>.</span></li>
-      <li><time>2026.08.05</time><span>My recent work was accepted to the <a href="https://sigspatial2026.sigspatial.org/">34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)</a>.</span></li>
+      <li><time>2026.08.05</time><span>My work &ldquo;<a href="https://arxiv.org/abs/2608.29553">BEACON: Behavioral and semantic enrichment of AlphaEarth embeddings through tri-modal contrastive learning</a>&rdquo; was accepted to the <a href="https://sigspatial2026.sigspatial.org/">34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)</a>.</span></li>
       <li><time>2026.07.30</time><span>Selected as a TAMIDS Data Science Ambassador for the 2026-2027 cohort.</span></li>
       <li><time>2026.07.03</time><span>Awarded the <a href="https://cartogis.org/awards/students/">2026 CaGIS Ph.D. Scholarship</a>.</span></li>
       <li><time>2026.03.20</time><span>Awarded 2nd Place in the AAG RSSG Student Paper Competition.</span></li>
@@ -136,9 +136,10 @@ redirect_from:
     <details class="ht-more-pubs">
       <summary>more publications</summary>
       <ul>
+        <li><strong>ACM SIGSPATIAL 2026.</strong> <a href="https://arxiv.org/abs/2608.29553">BEACON: Behavioral and semantic enrichment of AlphaEarth embeddings through tri-modal contrastive learning</a>. <strong>Hao Tian</strong>, Heng Cai, Yifan Yang. In <em>Proceedings of the 34th ACM International Conference on Advances in Geographic Information Systems</em>. Accepted.</li>
+        <li><strong>Transactions in GIS 2026.</strong> Modeling hospital visitation flows through distance-attractiveness tradeoffs: Integrating human mobility, hospital attributes, and socioeconomic context. Bing Lin, Lei Zou, <strong>Hao Tian</strong>, Heng Cai, Yifan Yang, Bing Zhou.</li>
+        <li><strong>Progress in Disaster Science 2026.</strong> <a href="https://doi.org/10.1016/j.pdisas.2026.100623">Quantifying healthcare visitation disruptions using mobile phone location data during disasters: A case study of Hurricane Beryl</a>. Bing Lin, Heng Cai, <strong>Hao Tian</strong>, Dong Fu, Palash Chandra Das, Nawrin Nur Sumiya, Zhen Yin. Vol. 31: 100623.</li>
         <li><strong>AAAG 2025.</strong> <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>. Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, <strong>Hao Tian</strong>. <em>Annals of the American Association of Geographers</em>, 2025.</li>
-        <li><strong>IJDRR 2025.</strong> Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl. Lin B, Cai H, <strong>Tian H</strong>, Fu D, D Palash, Sumiya NN, Yin Z. <em>International Journal of Disaster Risk Reduction</em>. Under Review.</li>
-        <li><strong>Applied Geography 2025.</strong> Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data. Lin B, Zou L, Cai H, <strong>Tian H</strong>. Under Review.</li>
         <li><strong>Environmental Research 2021.</strong> <a href="https://doi.org/10.1016/j.envres.2021.111544">Effects of high-frequency temperature variabilities on the morbidity of chronic obstructive pulmonary disease</a>. <strong>Hao Tian</strong>, Yumin Zhou, Zihui Wang, Xiaoliang Huang, Erjia Ge, Sijia Wu, Peng Wang, Xuelin Tong, Pixin Ran, Ming Luo.</li>
         <li><strong>Urban Climate 2021.</strong> <a href="https://doi.org/10.1016/j.uclim.2021.100910">Urbanization contribution to human perceived temperature changes in major urban agglomerations of China</a>. Peng Wang, Ming Luo, Weilin Liao, Yong Xu, Sijia Wu, Xuelin Tong, <strong>Hao Tian</strong>, Feng Xu, Yu Han.</li>
         <li><strong>Science of The Total Environment 2021.</strong> <a href="https://doi.org/10.1016/j.scitotenv.2021.149166">Urbanization-driven increases in summertime compound heat extremes across China</a>. Sijia Wu, Peng Wang, Xuelin Tong, <strong>Hao Tian</strong>, Yongquan Zhao, Ming Luo.</li>
@@ -171,12 +172,67 @@ redirect_from:
     </div>
   </section>
 
+  <section class="ht-section" id="experience">
+    <h2>experience</h2>
+
+    <div class="ht-subsection">
+      <h3>academic &amp; research experience</h3>
+      <div class="ht-timeline">
+        <article>
+          <time>2026-present</time>
+          <div><h3>Student Ambassador</h3><p>Texas A&amp;M Institute of Data Science.</p></div>
+        </article>
+        <article>
+          <time>2023-present</time>
+          <div><h3>Research Assistant</h3><p>City Analytics &amp; Informatics Lab, Department of Geography, Texas A&amp;M University. Advisor: Dr. Heng Cai.</p></div>
+        </article>
+        <article>
+          <time>2021-2022</time>
+          <div><h3>Spatial Data Analyst</h3><p>Guangdong Communications Industry Services Co., Ltd., Guangzhou, China.</p></div>
+        </article>
+      </div>
+    </div>
+
+    <div class="ht-subsection">
+      <h3>teaching &amp; mentoring</h3>
+      <div class="ht-timeline">
+        <article>
+          <time>2026</time>
+          <div><h3>Undergraduate Mentor</h3><p>Mentored Bingqian Chen and Boyu Tan in data cleaning, programming, and research methodology.</p></div>
+        </article>
+        <article>
+          <time>Fall 2026</time>
+          <div><h3>Guest Lecturer</h3><p>GEOG 391 Geodatabase, Texas A&amp;M University.</p></div>
+        </article>
+        <article>
+          <time>Spring 2026</time>
+          <div><h3>Guest Lecturer</h3><p>URPN 325 Introduction to GIS in Urban and Regional Planning and GEOG 475 Advanced GIS, Texas A&amp;M University.</p></div>
+        </article>
+        <article>
+          <time>Fall 2025</time>
+          <div><h3>Guest Lecturer</h3><p>GEOG 390 Principles of GIS and GEOG 660 Applications in GIS, Texas A&amp;M University.</p></div>
+        </article>
+      </div>
+    </div>
+
+    <div class="ht-subsection">
+      <h3>funded research</h3>
+      <div class="ht-timeline">
+        <article>
+          <time>2026-2027</time>
+          <div><h3>Principal Investigator</h3><p>Environment and Sustainability Initiative Graduate Fellow Project, Texas A&amp;M University. <em>AI-Driven Seismic Sensing of Human Activity Disruptions During Extreme Weather Events</em> ($2,500).</p></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
   <section class="ht-section" id="awards">
     <h2>honors &amp; awards</h2>
     <ul class="ht-awards">
       <li><strong>ACM SIGSPATIAL 2026 Travel Award ($500)</strong><span>2026</span></li>
       <li><strong>The Texas A&amp;M Institute of Data Science (TAMIDS) Student Ambassador Scholarship ($2,000)</strong><span>2026</span></li>
       <li><strong>CaGIS Ph.D. Scholarship ($1,500)</strong><span>2026</span></li>
+      <li><strong>Geography Graduate Student Excellence in Research Award, Texas A&amp;M University ($500)</strong><span>2026</span></li>
       <li><strong>2nd Place, AAG RSSG Student Paper Competition ($250)</strong><span>2026</span></li>
       <li><strong>AAG International Geographic Information Fund Student Paper Award ($600)</strong><span>2026</span></li>
       <li><strong>International Cartographic Association Scholarship ($450)</strong><span>2025</span></li>
@@ -185,12 +241,16 @@ redirect_from:
       <li><strong>2nd Place, AAG GISS-SG Student Paper Competition ($450)</strong><span>2024</span></li>
       <li><strong>AAG SAM-SG Student Travel Award ($250)</strong><span>2024</span></li>
       <li><strong>Texas GIS Day Graduate Student Research Competition Awardee ($150)</strong><span>2023</span></li>
+      <li><strong>3rd Place Scholarship, Sun Yat-Sen University</strong><span>2019, 2020</span></li>
     </ul>
   </section>
 
   <section class="ht-section" id="talks">
     <h2>selected talks &amp; presentations</h2>
     <ul class="ht-list">
+      <li><span>2026 Invited</span> Leveraging Deep Learning and Distributed Acoustic Sensing for Real-Time Traffic Monitoring. International Symposium on Spatiotemporal Data Science, Alexandria, VA.</li>
+      <li><span>2026 Oral</span> Sensing and Inferring Urban Traffic Dynamics from Distributed Acoustic Sensing Using Deep Learning. IEEE International Geoscience and Remote Sensing Symposium, Washington, DC.</li>
+      <li><span>2026 Oral</span> Leveraging Deep Learning and Distributed Acoustic Sensing for Real-Time Traffic Monitoring. AAG Annual Meeting, San Francisco, CA.</li>
       <li><span>2026.03 Invited</span> Can Seismic Signals Decode Human Behavior? Toward a Data-Driven Understanding of Human Dynamics. TAMIDS Ambassador Seminar, Texas A&amp;M Institute of Data Science.</li>
       <li><span>2025.11 Invited</span> Integrating Social and Seismic Sensing: Multi-Source Insights into Urban Human Dynamics. Texas GIS Day and Fall 2025 Geography Colloquium, Texas A&amp;M University.</li>
       <li><span>2025.08 Oral</span> Disproportionate Heat Adaptation: Multi-Scale Evidence of Unequal Mobility Responses to Extreme Heat. International Cartographic Conference, Vancouver.</li>

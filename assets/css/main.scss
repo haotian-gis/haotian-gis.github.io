@@ -502,6 +502,18 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
+.ht-subsection + .ht-subsection {
+    margin-top: 1.75rem;
+}
+
+.ht-subsection > h3 {
+    margin: 0 0 0.9rem;
+    color: var(--ht-ink);
+    font-size: 1.08rem;
+    font-weight: 500;
+    text-transform: lowercase;
+}
+
 .ht-timeline article {
     display: grid;
     grid-template-columns: 9.5rem minmax(0, 1fr);
