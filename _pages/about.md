@@ -82,6 +82,7 @@ redirect_from:
   <section class="ht-section" id="news">
     <h2>news</h2>
     <ul class="ht-news">
+      <li><time>2026.10.24</time><span>Our new paper &ldquo;<a href="https://doi.org/10.1111/tgis.70432">Modeling hospital visitation flows through distance-attractiveness tradeoffs: Integrating human mobility, hospital attributes, and socioeconomic context</a>&rdquo; was published in <em>Transactions in GIS</em>.</span></li>
       <li><time>2026.10.14</time><span>Successfully defended my dissertation proposal at Texas A&amp;M University.</span></li>
       <li><time>2026.10.12</time><span>Received a $500 Travel Award for <a href="https://sigspatial2026.sigspatial.org/">ACM SIGSPATIAL 2026</a>.</span></li>
       <li><time>2026.08.05</time><span>My work &ldquo;<a href="https://arxiv.org/abs/2608.29553">BEACON: Behavioral and semantic enrichment of AlphaEarth embeddings through tri-modal contrastive learning</a>&rdquo; was accepted to the <a href="https://sigspatial2026.sigspatial.org/">34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)</a>.</span></li>
@@ -97,6 +98,24 @@ redirect_from:
   <section class="ht-section" id="publications">
     <h2>selected publications</h2>
     <div class="ht-publications">
+      <article class="ht-publication">
+        <div class="ht-pub-preview">
+          <abbr>TGIS 2026</abbr>
+          <img src="/images/hospital-visitation-flows.jpg" alt="Hospital visitation flows across Harris County, Texas">
+        </div>
+        <div class="ht-pub-body">
+          <div class="ht-pub-title">
+            <a href="https://doi.org/10.1111/tgis.70432">Modeling hospital visitation flows through distance-attractiveness tradeoffs: Integrating human mobility, hospital attributes, and socioeconomic context</a>
+          </div>
+          <p class="ht-pub-authors">Binbin Lin, Lei Zou, <strong>Hao Tian</strong>, Heng Cai, Yifan Yang, Bing Zhou</p>
+          <p class="ht-pub-venue"><em>Transactions in GIS</em>, 2026, Vol. 30, No. 7: e70432.</p>
+          <p class="ht-pub-note">Models hospital visitation as a destination-choice process shaped by travel time, hospital attractiveness, and neighborhood socioeconomic context.</p>
+          <div class="ht-pub-links">
+            <a href="https://doi.org/10.1111/tgis.70432">DOI</a>
+          </div>
+        </div>
+      </article>
+
       <article class="ht-publication">
         <div class="ht-pub-preview">
           <abbr>CEUS 2026</abbr>
@@ -138,7 +157,6 @@ redirect_from:
       <summary>more publications</summary>
       <ul>
         <li><strong>ACM SIGSPATIAL 2026.</strong> <a href="https://arxiv.org/abs/2608.29553">BEACON: Behavioral and semantic enrichment of AlphaEarth embeddings through tri-modal contrastive learning</a>. <strong>Hao Tian</strong>, Heng Cai, Yifan Yang. In <em>Proceedings of the 34th ACM International Conference on Advances in Geographic Information Systems</em>. Accepted.</li>
-        <li><strong>Transactions in GIS 2026.</strong> Modeling hospital visitation flows through distance-attractiveness tradeoffs: Integrating human mobility, hospital attributes, and socioeconomic context. Bing Lin, Lei Zou, <strong>Hao Tian</strong>, Heng Cai, Yifan Yang, Bing Zhou.</li>
         <li><strong>Progress in Disaster Science 2026.</strong> <a href="https://doi.org/10.1016/j.pdisas.2026.100623">Quantifying healthcare visitation disruptions using mobile phone location data during disasters: A case study of Hurricane Beryl</a>. Bing Lin, Heng Cai, <strong>Hao Tian</strong>, Dong Fu, Palash Chandra Das, Nawrin Nur Sumiya, Zhen Yin. Vol. 31: 100623.</li>
         <li><strong>AAAG 2025.</strong> <a href="https://doi.org/10.1080/24694452.2025.2560491">Rapid Disaster Response and Damage Estimation with Social Media and Pretrained Large Language Models: Insights from Multiple Hurricanes</a>. Zhou B, Zou L, Yang M, Lin B, Mandal D, Abedin J, Cai H, Ji S, Klein A, <strong>Hao Tian</strong>. <em>Annals of the American Association of Geographers</em>, 2025.</li>
         <li><strong>Environmental Research 2021.</strong> <a href="https://doi.org/10.1016/j.envres.2021.111544">Effects of high-frequency temperature variabilities on the morbidity of chronic obstructive pulmonary disease</a>. <strong>Hao Tian</strong>, Yumin Zhou, Zihui Wang, Xiaoliang Huang, Erjia Ge, Sijia Wu, Peng Wang, Xuelin Tong, Pixin Ran, Ming Luo.</li>
